@@ -2,6 +2,10 @@
 
 Um projeto simples e interativo para praticar **HTML, CSS e JavaScript**. Arraste os itens entre duas caixas e organize-os como quiser.
 
+## Visual
+
+![alt text](img/visual.png)
+
 ## Funcionalidades
 
 - Arrastar os itens da lista com o mouse.
