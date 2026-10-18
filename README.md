@@ -47,3 +47,8 @@ projeto10-drag/
 - Uso de `event.preventDefault()` para permitir que uma área receba itens.
 - Organização de uma interface com Flexbox.
 
+---
+
+<p align="center">
+  Desenvolvido por <a href="https://github.com/LucMNS"><b>LucMNS</b></a>
+</p>
